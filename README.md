@@ -1,6 +1,4 @@
-===============================
-Regressors
-===============================
+# Regressors
 
 Easy utilities for fitting various regressors, extracting stats, and making relevant plots
 
